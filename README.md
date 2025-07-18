@@ -2,7 +2,8 @@
 
 A **modern, glowing circular digital clock** built with Python and Tkinter. This live clock displays the current time in `HH:MM:SS` format, updated every second, inside a stylish neon-like circle.
 
-![Circular Digital Clock Demo](./a981fc0e-72d1-4c58-9d87-b1a628d5cc40.png)
+![Circular Digital Clock Demo](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7d5d4e7-1a3e-4105-83b1-30920bb70549" />
+)
 
 ---
 
